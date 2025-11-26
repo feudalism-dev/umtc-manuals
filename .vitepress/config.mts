@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "UMTC System",
   description: "Universal Materials Texture Changer System Documentation",
+  base: '/umtc-manuals/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
