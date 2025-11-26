@@ -5,6 +5,9 @@ hero:
   name: "UMTC System"
   text: "Universal Materials Texture Changer"
   tagline: The ultimate texture and material management system for Second Life.
+  image:
+    src: /UMTCSplash.png
+    alt: UMTC System Splash
   actions:
     - theme: brand
       text: Builder Guide
